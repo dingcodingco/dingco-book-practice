@@ -1,0 +1,6 @@
+{
+  "name": "dingco-book-practice",
+  "version": "1.0.0",
+  "description": "클로드 입문서 3장 실습에서 만든 예시 스킬 3개(가게 게시글, 블로그 글로 SNS·뉴스레터 만들기, 회의록 정리)를 묶은 플러그인입니다.",
+  "author": { "name": "딩코랩스" }
+}

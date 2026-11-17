@@ -1,0 +1,14 @@
+{
+  "name": "dingco-book-practice",
+  "description": "클로드 입문서 실습용 스킬을 담은 마켓플레이스입니다.",
+  "owner": {
+    "name": "딩코랩스"
+  },
+  "plugins": [
+    {
+      "name": "dingco-book-practice",
+      "source": "./plugins/dingco-book-practice",
+      "description": "클로드 입문서 3장 실습에서 만든 예시 스킬 3개를 묶은 플러그인입니다."
+    }
+  ]
+}
